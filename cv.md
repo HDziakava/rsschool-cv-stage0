@@ -4,10 +4,9 @@
 
 ### Contact information:
 
-- **Phone:** +48 571 086 898
-  **E-mail:** anne.dyakova@gmail.com
-
-* [Linkedin](https://www.linkedin.com/in/anna-dyakova/)
+**Phone:** +48 571 086 898
+**E-mail:** anne.dyakova@gmail.com
+[Linkedin](https://www.linkedin.com/in/anna-dyakova/)
 
 ---
 
@@ -30,7 +29,24 @@ bla bla bla
 
 ### Code Examples:
 
-bla bla bla
+```
+function App() {
+  const [images, setImages] = useState([]);
+
+  const handleSubmit = async (term) => {
+    const result = await searchImages(term);
+
+    setImages(result);
+  };
+
+  return (
+    <div>
+      <SearchBar onSubmit={handleSubmit} />
+      <ImageList images={images} />
+    </div>
+  );
+}
+```
 
 ---
 

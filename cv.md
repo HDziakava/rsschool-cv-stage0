@@ -4,8 +4,10 @@
 
 ### Contact information:
 
-**Phone** +48 571 086 898
-**E-mail** anne.dyakova@gmail.com
+**Phone:** +48 571 086 898
+
+**E-mail:** anne.dyakova@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/anna-dyakova/)
 
 ---
@@ -25,8 +27,23 @@ bla bla bla
 - Git, GitHub
 - Figma
 
-### Code examples
+### Code examples:
 
 bla bla bla
 
 ---
+
+### Education and courses:
+
+- RS Schools Course "JavaScript/Front-end. Stage 0"
+- Udemy Course "Modern React with Redux"
+- Udemy Course "The Web Developer Bootcamp" (HTML, CSS, JavaScript)
+- Bachelor, Minsk State Linguastic University, English faculty
+
+---
+
+### Languages:
+
+- English - Upper-intermediate
+- Russian - Native
+- Polish - Basic

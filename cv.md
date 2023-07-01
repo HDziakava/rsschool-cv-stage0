@@ -19,3 +19,16 @@ bla bla bla
 ---
 
 ### Skills and Proficiency:
+
+*HTML
+*CSS
+*JavaScript
+*React JS
+*Git, GitHub
+*Figma
+
+### Code examples
+
+bla bla bla
+
+---

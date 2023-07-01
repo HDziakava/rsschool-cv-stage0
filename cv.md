@@ -12,7 +12,7 @@
 
 ### About Me:
 
-bla bla bla
+I decided to try a new sphere 4 months ago. I have already finished 2 Udemy courses and worked on a small project as a Frontend Developer. I know it's chalanging field but I keep learning.
 
 ---
 

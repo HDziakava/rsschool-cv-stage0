@@ -12,7 +12,7 @@
 
 ### About Me:
 
-I decided to try a new sphere 4 months ago. I have already finished 2 Udemy courses and worked on a small project as a Frontend Developer. I know it's chalanging field but I keep learning.
+I decided to try a new sphere 4 months ago. I have already finished 2 Udemy courses and worked on a small project as a Frontend Developer. I know it's a challenging field but I keep learning.
 
 ---
 
